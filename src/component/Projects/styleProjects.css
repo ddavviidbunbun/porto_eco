@@ -1,0 +1,55 @@
+.c-pro {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #232323;
+    flex-direction: column;
+}
+
+.box-b {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-b1 {
+    background-color: rgba(127, 255, 212, 0.251);
+    width: 40rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 25px;
+    margin: 30px;
+    text-align: center;
+    position: relative;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.box-b1 a {
+    color: white;
+}
+
+.s-b1 {
+    font-size: xx-large;
+    margin: 18px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.755);
+}
+
+.s-b2 {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.a-1 {
+    position: absolute;
+    bottom: 23px;
+    width: 30%;
+    border-radius: 10px;
+    background-color: #232323;
+}

@@ -1,0 +1,29 @@
+.c-nav {
+    width: 100vw;
+    height: 60px;
+    background-color: #232323;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 20px;
+    color: white;
+    position: fixed;
+    z-index: 2;
+}
+
+.namegw {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.navi {
+    width: 37%;
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+}
+
+.navi span {
+    color: white;
+}

@@ -1,0 +1,45 @@
+.c-home {
+    width: 100vw;
+    height: 100vh;
+    background-color: #232323;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* justify-content: space-evenly; */
+}
+
+.pic {
+    margin-top: 10%;
+}
+
+.pic,
+.profile {
+    width: 40rem;
+    height: 40rem;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-1 {
+    font-size: 23px;
+    color: rgba(255, 255, 255, 0.627);
+}
+
+.p-2 {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.p-3 {
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.p-4 {
+    font-size: 40px;
+}

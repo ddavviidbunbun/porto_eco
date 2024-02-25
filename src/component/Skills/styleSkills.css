@@ -1,0 +1,93 @@
+.c-skills {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #232323;
+}
+
+.s-a1 {
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.749);
+}
+
+.s-a2 {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.s-a3 {
+    font-size: 26px;
+    font-weight: 650;
+    margin-top: 20px;
+}
+
+.s-a4 {
+    color: white;
+    font-weight: 600;
+    background-color: rgba(127, 255, 212, 0.251);
+    border-radius: 10px;
+    font-size: larger;
+    text-align: center;
+    margin: 7px;
+}
+
+.box-a {
+    width: 90%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-a1,
+.box-a2 {
+    height: 20rem;
+    width: 29rem;
+    margin: 19px;
+    border: 2px solid white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box-a3 {
+    margin-top: 30px;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.c {
+    width: 65px;
+    height: 30px;
+}
+
+.c1 {
+    width: 100px;
+    height: 30px;
+}
+
+.c2 {
+    height: 30px;
+    width: 160px;
+}
+
+.c3 {
+    height: 30px;
+    width: 130px;
+}
+
+.c4 {
+    height: 30px;
+    width: 210px;
+}
+
+.c5 {
+    height: 30px;
+    width: 300px;
+}
