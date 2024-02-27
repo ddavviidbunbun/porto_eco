@@ -18,13 +18,6 @@ function Skills() {
                         <span className='s-a4 c'>SQL</span>
                     </div>
                 </div>
-                <div className="box-a2">
-                    <span className='s-a3'>Logic & Math</span>
-                    <div className="box-a3">
-                        <span className='s-a4 c5'>Algorithms & Data Structure : A</span>
-                        <span className='s-a4 c4'>Database Systems : A-</span>
-                    </div>
-                </div>
             </div>
         </div>
     );
