@@ -21,9 +21,6 @@ function Skills() {
                 <div className="box-a2">
                     <span className='s-a3'>Logic & Math</span>
                     <div className="box-a3">
-                        <span className='s-a4 c4'>Discrete Math : A</span>
-                        <span className='s-a4 c4'>Linear Algebra : A-</span>
-                        <span className='s-a4 c3'>Calculus : A</span>
                         <span className='s-a4 c5'>Algorithms & Data Structure : A</span>
                         <span className='s-a4 c4'>Database Systems : A-</span>
                     </div>
